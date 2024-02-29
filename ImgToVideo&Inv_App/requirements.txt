@@ -1,0 +1,5 @@
+numpy
+streamlit
+opencv-python-headless
+PyDrive
+azure-storage-blob
